@@ -2,7 +2,7 @@
 
 > Personal learning journal and proof-of-work for AI × Web3 School.
 > 
-> 学员：罗佳楠 (Changlu)
+> 学员：Lain
 > 方向：Agent 开发 + 产品研究与运营
 > 每日投入：约 2 小时
 > 语言：中英混合
